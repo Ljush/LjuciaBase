@@ -71,6 +71,28 @@
 // #include scripts\zm\_zm_pers_upgrades_functions;
 // #include scripts\zm\_zm_pers_upgrades_system;
 
+// Custom Mod Menu Includes
+#insert Options;
+#insert menu\base;
+#insert menu\structures;
+#insert menu\scrolling;
+#insert menu\hud_utils;
+#insert menu\verification;
+#insert menu\overrides;
+#insert menu\utilities;
+#insert menu\menu_customization;
+#insert menu\menu_instructions;
+#insert menu\tables;
+#insert functions\basic;
+#insert functions\player;
+#insert functions\server;
+#insert functions\weaponry;
+#insert functions\menu_theming;
+#insert functions\Custom Perks\perks_utils;
+#insert functions\Custom Perks\PhdSlider;
+#insert functions\Custom Perks\ElectricCherry;
+#insert functions\Custom Perks\PhdSlider_V2(CW);
+
 #namespace duplicate_render;
 
 //required
